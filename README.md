@@ -3,7 +3,7 @@
 </h1>
 
 # 🔒 App Protector: Freemium RASP Solution
-Elevate your mobile app security with ASEE's App App Protector is a Freemium Runtime Application Self-Protection (RASP) solution developed by ASEE, designed to elevate mobile app security. Strengthen your defenses against emerging threats without compromising user experience.
+App Protector is a Runtime Application Self-Protection (RASP) solution developed by ASEE, designed to elevate mobile app security. Strengthen your defenses against emerging threats without compromising user experience.
 
 We have created a freemium SDK so that you can try our solution.
 
