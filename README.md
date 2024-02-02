@@ -35,16 +35,17 @@ RASP is a technology that is embedded within application and kicks in when an ap
 - **PSD2 Compliance:** Meet regulatory requirements for mobile applications handling payment transactions with self-protecting data.
 - **Minimal Performance Impact:** Smooth implementation with no downtime, source code changes, false positives, or performance overhead.
 
-### App Protector Portal
-App Protector portal is only available with the full App Protector version.
+### App Protector SDK
 
 Android App Protector SDK is written in Java language but is fully compatible with other Java languages supported on Android, like Kotlin. This framework can be used for target devices from Android KitKat (API level 19) and higher.
 
 For iOS, there are two builds, build for SWIFT and build for Objective-C. Both versions have all the capabilities in terms of runtime self-protection. This framework can be used for target devices from iOS 8.0 and higher.
 
-App Protector SDK collects and sends security events from mobile applications to App Protector Portal. Portal can be used for analysing security events/attacks on user’s devices which have installed monitored production application. Based on received information, behaviour of App Protector (RASP configuration) can be changed. Changing configuration or responses on attacks can be done by sending change information over App Protector Portal server to App Protector SDK on mobile device.
+### App Protector Portal
 
-App Protector Portal is a solution that enables clients to create RASP configuration for each user and mobile application. Using this solution, clients will be able to set which attack App Protector SDK online should detect and choose which response will be created after attack is detected. App Protector SDK online collects data of detected attacks and sends it to Portal. Based on the inputs from the SDK, client will be able to see statistics for each platform, Android and iOS.
+The App Protector SDK collects and transmits security events from mobile applications to the App Protector Portal. This portal serves as a comprehensive solution, enabling clients to analyze security events/attacks on users' devices with the monitored production application installed. The received information allows for the modification of App Protector's behavior through its RASP configuration. Configuration changes or responses to attacks are executed by transmitting information from the App Protector Portal server to the App Protector SDK on the mobile device. Simultaneously, the App Protector SDK online continuously gathers data on detected attacks, sending it to the Portal for analysis. This streamlined approach empowers clients to create a RASP configuration for each user and mobile application. Utilizing the Portal, clients can specify the attacks that the App Protector SDK online should detect and determine the responses following attack detection. Clients can access platform-specific statistics, such as Android and iOS, based on the collected data from the SDK.
+
+App Protector portal is only available with the full App Protector version.
 
 For more information, please [Contact Us](https://cybersecurity.asee.io/contact-us/).
 
