@@ -82,7 +82,7 @@ For more information, please [Contact Us](https://cybersecurity.asee.io/contact-
 - Guards against unauthorized screen recording attempts on iOS Devices.
 
 ## Obfuscation
-- Component that is responsible for obfuscation of application code to improve the application resilience to static reverse engineering.
+- Component that is responsible for obfuscation of application code and strings to improve the application resilience to static reverse engineering.
 
 ## App integrity check
 - Detects malicious modifications of iOS and Android mobile applications
@@ -119,12 +119,12 @@ Explore our premium plan for additional features and unparalleled security.
     <tr>
       <td><strong>App Signature Integrity</strong></td>
       <td>✓</td>
-      <td>❌</td>
+      <td>❌ (on request) </td>
     </tr>
     <tr>
       <td><strong>App Store Validation</strong></td>
       <td>✓</td>
-      <td>❌</td>
+      <td>❌ (on request)</td>
     </tr>
     <tr>
       <td><strong>Debugging Mode Detection</strong></td>
