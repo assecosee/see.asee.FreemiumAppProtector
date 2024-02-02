@@ -56,7 +56,7 @@ For more information, please [Contact Us](https://cybersecurity.asee.io/contact-
 ## Jailbreak/Root Detection
 - Identifies rooted or jailbroken devices.
 
-## App Signature Integrity
+## Code Signature Integrity
 - Verifies the integrity of your app's signature.
 - Ensures the authenticity of the app package.
 
@@ -91,10 +91,10 @@ For more information, please [Contact Us](https://cybersecurity.asee.io/contact-
 Follow the guides below to seamlessly integrate Freemium App Protector into your Android and iOS applications.
 
 ## Android Installation
-[Link to Android Installation Guide]
+[Not available yet.]
 
 ## iOS Installation
-[Link to iOS Installation Guide]
+[Link to iOS Installation Guide](https://github.com/assecosee/see.asee.ios.FreemiumAppProtector)
 
 ## 🛡️ Data Collection and Privacy
 Freemium App Protector doesn't collect anonymized security diagnostics data for app and device instances.
@@ -174,4 +174,4 @@ ASEE group is one of the biggest IT companies in the area of production and impl
 ASEE provides products and services within the Payment business under Payten name. Since October 2009, the shares of Asseco South Eastern Europe (WSE: ASSECO SEE, ASE) have been listed on the Warsaw Stock Exchange.
 
 # 📜 License
-Freemium App Protector SDK is provided under a freemium model. Review the [LICENSE](your_license_file_url) for detailed information.
+Freemium App Protector SDK is provided under a freemium model. Review the [LICENSE](https://github.com/assecosee/see.asee.FreemiumAppProtector/blob/main/LICENSE) for detailed information.
